@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
-        String str = "Hello Duniya";
+        String str = "Hello Duniy";
 
         TextView counter = findViewById(R.id.textView2);
         Button myBtn = findViewById(R.id.button);
